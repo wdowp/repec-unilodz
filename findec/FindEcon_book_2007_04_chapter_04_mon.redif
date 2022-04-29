@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Vahidin Jeleskovic
+Author-Email: vahidin.jeleskovic@wirtschaft.uni-giessen.de
+Author-Workplace-Name: Justus-Liebig University of Giessen, Germany
+Title: Are the Multifractal Properties of Exchange Rates Robust?
+Abstract: In this chapter, we analyze the robustness of multifractal properties of exchange rates. Robustness of multifractal properties is a necessary condition for applying the multifractal models. The block bootstrap method gives evidence of the robust multifractal properties of exchange rates in the range of the first four moments which have to be used for detecting multifractality.28 The left tail of the Hölder spectrum corresponds to the non-robust higher moments. Fisher et al. (1997) find that an institutional shift in international monetary policy is responsible for the instability in the left tail of the Höslder spectrum. Our analysis suggests that simply from the statistical point of view there cannot be robustness in this area of the Hölder spectrum. This also implies that parameter estimation of MMAR via scaling estimators (equation 4.11) or via GMM (Lux 2003) has to be done in the range of the first four moments to avoid some possible biases.
+ In the last few years, new models have been developed considering financial markets as complex adaptive systems based on interactive agents with bounded rationality. It is shown via microsimulations that some of these so-called Agent Based Models can replicate the stylized facts from real financial time series. Therefore, these models would be considered as a plausible candidate to give an explanation for dynamics of real financial markets. Hence, the robust multifractal properties from the range of the first four moments can be accepted as benchmark for Agent Based Models. Moreover, Gilli and Winker (2003) develop an approach for parameter estimation of Agent Based Models via an objective function. The objective function is built on a set of robust statistics (stylized facts). The scaling function or the Hölder exponent in the range of the robust moments can be a component in the objective function introduced by Gilli and Winker (2003). Furthermore, the robust multifractal properties in the range of the first four moments can be a benchmark for any kind of simulation models for financial market.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Multifractal properties of exchange rates; Robustness analysis
+Year: 2007
+Month: 
+Volume: 4
+Edition: 1
+Chapter: 4
+Pages: 61-74
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:04:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_4_Ch_4.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:04:ch:04:mon

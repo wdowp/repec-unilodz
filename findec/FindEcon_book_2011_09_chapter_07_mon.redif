@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Katarzyna Brzozowska-Rup
+Author-Email: krup@tu.kielce.pl
+Author-Workplace-Name: Kielce University of Technology, Poland
+Author-Name: Antoni Leon Dawidowicz
+Author-Email: antoni.leon.dawidowicz@im.uj.edu.pl
+Author-Workplace-Name: Jagiellonian University, Cracow, Poland
+Title: Parameter Estimation for Nonlinear State-Space Models Using Particle Methods Combined with the EM Algorithm
+Abstract: In the next chapter (Chapter 7) Katarzyna Brzozowska-Rup and Antoni Leon Dawidowicz present particle filter approach which is a likelihood-based method of inference in nonlinear, non-Gaussian state-space models. In the simulation experiment this sequential Monte Carlo method has been combined with the Expectation-Maximization algorithm and applied to stochastic volatility models.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Nonlinear state-space model; Particle filter; EM algorithm; Monte Carlo method
+Year: 2011
+Month: 
+Volume: 9
+Edition: 1
+Chapter: 7
+Pages: 111-123
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2011:n:09:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2011/2011_No_9_Ch_7.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2011:n:09:ch:07:mon

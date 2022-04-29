@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Jacek Kwiatkowski
+Author-Email: jkwiat@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: A Bayesian Analysis of Stur Models
+Abstract: Chapter 2 is a study on stochastic unit root models (STUR) under the Bayesian estimation and testing. The Gibbs sampling algorithm is used. The parameters of the model follow an autoregressive mechanism. It has been specified that the series tend to possess one unit root in the long run, while in the short run the roots may be stationary or explosive. An application for the stock returns, for weekly sampling frequencies, has shown that three of ten series exhibit symptoms of time-varying unit root.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Stochastic models; Bayesian estimation; Autoregression models
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 2
+Pages: 37-48
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_2.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:02:mon

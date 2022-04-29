@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Witold Orzeszko
+Author-Email: vit@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University, Toruń, Poland
+Title: Detection of Nonlinear Autodependencies Using the Hiemstra-Jones Test
+Abstract: Chapter 11 by Orzeszko deals with testing for nonlinear dependencies in a single time series with the use of Hiemstra-Jones test. The results over a set of model specifications have shown that the proposed method may be a very useful tool in detecting nonlinearities in time series.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Hiemstra-Jones test; Nonlinear autodependencies; Nonlinear time series modelling
+Year: 2010
+Month: 
+Volume: 8
+Edition: 1
+Chapter: 11
+Pages: 157-170
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2010:n:08:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2010/2010_No_8_Ch_11.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2010:n:08:ch:11:mon

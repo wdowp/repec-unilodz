@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Władysław Milo
+Author-Email: wladyslaw.milo@uni.lodz.pl
+Author-Workplace-Name: University of Lodz, Poland
+Author-Name: Dominika Bogusz
+Author-Email: dominika.machowska@uni.lodz.pl
+Author-Workplace-Name: University of Lodz, Poland
+Author-Name: Mariusz Górajski
+Author-Email: mariusz.gorajski@uni.lodz.pl
+Author-Workplace-Name: University of Lodz, Poland
+Author-Name: Magdalena Ulrichs
+Author-Email: magdalena.ulrichs@uni.lodz.pl
+Author-Workplace-Name: University of Lodz, Poland
+Title: Notes on some optimal monetary policy rules: the case of Poland
+Abstract: The paper contains results concerning theoretical and practical utility of a simple optimal control model describing monetary policy rules. Solving this model enables to find useful forms of optimal monetary rules for the two policy scenarios. They were derived for the given form of linear VAR(s) state model describing the time evolution of deviations of logarithmic values of GDP growth rates around its HP-filtered potential counterparts, empirical CPI inflation rates around NBP-target rates and expected inflation rates around long-term trend expectations, as well as, for the two forms of J-cost functionals expressing two paths of optimal NBP target interest. Numerical values of these rates, obtained for Polish quarterly data, were the base both for calculating corresponding to them values of target inflation rates, GDP-growth rates, and also for making some remarks about their behaviour in comparison to their empirical counterparts.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Interest rates; Central banks and their policies; VAR models; Optimal rules of monetary policy
+Year: 2013
+Month: 
+Volume: 295
+Edition: 1
+Chapter: 4
+Pages: 59-77
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 295/2013 - Financial Markets and Macroprudential Policy
+In-Book: RePEc:ann:findeb:book:y:2013:n:295:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/10548
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2013:n:295:ch:04:foe

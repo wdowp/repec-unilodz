@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Marcin Stamirowski
+Author-Email: [TBA]
+Author-Workplace-Name: Warsaw School of Economics, Poland
+Title: One-Factor Interest Rate Models - Evaluation of Usefulness for Pricing and Analysis of Investors' Expectations
+Abstract: 	This paper presents the empirical analysis of interest rate models: Vasicek (1977), and Cox, Ingersoll and Ross (1985). The parameters of the instantaneous interest rate processes were estimated using time series techniques. Market prices of risk were evaluated by means of fitting the theoretical bond prices to the zero-coupon yield curves. Results can be summarised as follows: (1) neither model proves plausible for pricing Polish Treasury bonds; (2) both models allow for straightforward construction of short rate distributions, which should be interpreted as conditional forecasts, rather than investors' expectations; (3) dynamics of market prices of risk accurately reflect changing risk aversion of investors.
+Classification-JEL: C01, E02, F00, G00
+Keywords: One-factor interest rate models; Interest rate term structure
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 16
+Pages: 255-271
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7203
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:16:foe

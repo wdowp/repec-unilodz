@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Jacek Osiewalski
+Author-Email: eeosiewa@cyf-kr.edu.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Author-Name: Mateusz Pipień
+Author-Email: eepipien@cyf-kr.edu.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Title: Bayesian Analysis of Dynamic Conditional Correlation Using Bivariate GARCH Models
+Abstract: Multivariate ARCH-typc specifications provide a theoretically promising framework for analyses of correlation among financial instruments because they can model time-varying conditional covariance matrices. However, general VechGARCH models are too heavily parameterized and, thus, impractical for more than 2- or 3-dimensional vector lime series. A simple t-BEKK(l.l) specification seems a good compromise between parsimony and generality. Unfortunately, Bollerslev’s constant conditional correlation (CCC) model cannot be nested within VECH or BEKK GARCH structures. Recently, Engle (2002) proposed a parsimoniously parameterized generalization of the CCC model; this dynamic conditional correlation (DCC) specification may outperform many older multivariate GARCH models. In this paper we consider Bayesian analysis of the conditional correlation coefficient within different bivariate GARCH models, which are compared using Bayes factors and posterior odds. For daily growth rales of PLN/USD and PLN/DEM (6.02.1996-28.12.2001) we show that the t-BEKK(l, 1) specification fits the bivariate series much better than DCC models, but the posterior means of conditional correlation coefficients obtained within different models are very highly correlated.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Model comparison; Bayes factors; Multivariate GARCH processes; BEKK models; DCC models; Exchange rates
+Year: 2005
+Month: 
+Volume: 192
+Edition: 1
+Chapter: 13
+Pages: 213-227
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 192/2005 - Issues in Modeling, Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2005:n:192:foe
+File-URL: https://dspace.uni.lodz.pl/handle/11089/17944
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2005:n:192:ch:13:foe

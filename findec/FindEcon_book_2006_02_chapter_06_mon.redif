@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: David Bock
+Author-Email: david.bock@gu.se
+Author-Workplace-Name: Göteborg University, Göteborg, Sweden
+Title: Online Testing of Switching Volatility
+Abstract: Chapter 6 presents the methods for online detection of a change in the unconditional volatility. A test based on a moving sum is proposed and evaluated. The test has a controlled asymptotic size, i.e. the false alarm probability during an infinitely long monitoring period is fixed. The effects of autoregression and conditional heteroscedasticity have been also addressed and a test that allows for heteroscedasticity has been proposed. The testing procedures are exemplified with the Hang Seng Index to see whether a shift during the Asian crises period could have been detected online.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Stochastic Volatility Processes; Autoregression models; Financial markets
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 6
+Pages: 99-120
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_6.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:06:mon

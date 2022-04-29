@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Burkhard Raunig
+Author-Email: burkhard.raunig@oenb.at
+Author-Workplace-Name: Economic Studies Division, Oesterreichische Nationalbank, Austria
+Title: How Well Do Models of Stock Market Volatility Forecast at Longer Horizons?
+Abstract: Chapter 5 is devoted to a long-term out-of-sample forecasting performance of volatility models for DAX, FTSE 30 and S&P 500 stock index returns. The predictive power of models is evaluated with loss functions, a regression approach and value-at-risk methods. It is asserted that GARCH models outperform simpler models at shorter and longer horizons, although the forecasting performance of naive models improves as the forecasting horizon increases.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Stock market volatility forecast; Value-at-risk; GARCH model
+Year: 2005
+Month: 
+Volume: 0
+Edition: 1
+Chapter: 5
+Pages: 71-84
+Book-Title: Forecasting Financial Markets. Theory and Applications
+In-Book: RePEc:ann:findeb:book:y:2005:n:00:mon
+File-URL: 
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2005:n:00:ch:05:mon

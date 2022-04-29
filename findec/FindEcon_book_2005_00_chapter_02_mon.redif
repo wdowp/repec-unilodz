@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Piotr Fiszeder
+Author-Email: piotr.fiszeder@umk.pl
+Author-Workplace-Name: Nicholas Copernicus University, Toruń, Poland
+Title: Forecasting the Volatility of the Polish Stock Index - WIG20
+Abstract: Chapter 2 offers a comparative study of various GARCH-type models and other methods for predicting volatility of the Polish stock index WIG20. The results show that there is no single model to be clearly superior to the others. The competing models perform differently with varying measures of ex-post realized volatility. This suggests that making comparisons of predictive power of models by means of daily data only can give considerably misleading results.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Volatility forecasting; Garch model; WIG20; Polish stock market
+Year: 2005
+Month: 
+Volume: 0
+Edition: 1
+Chapter: 2
+Pages: 29-42
+Book-Title: Forecasting Financial Markets. Theory and Applications
+In-Book: RePEc:ann:findeb:book:y:2005:n:00:mon
+File-URL: 
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2005:n:00:ch:02:mon

@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Małgorzata Doman
+Author-Email: malgorzata.doman@ue.poznan.pl
+Author-Workplace-Name: Poznań University of Economics, Poland
+Title: Modeling the Realized Volatility with ARFIMA and Unobserved Component Models: Results from the Polish Financial Market
+Abstract: Chapter 7 is focused on the notion of realized volatility in financial econometrics. The chapter presents an approach to the estimation of the daily realized volatility based on intraday returns. It also takes into account effects of market microstructure. The volatility has been modeled and predicted for stock index WIG20 and exchange rate USD/PLN using ARFIMA and unobserved component models. The findings are that modeling realized volatility with UC and ARFIMA models provides comparable volatility forecasts.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Stochastic Volatility Processes; Autoregressive fractionally integrated moving average model (ARFIMA); Econometrics; Financial markets
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 7
+Pages: 121-135
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_7.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:07:mon

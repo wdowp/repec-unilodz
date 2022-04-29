@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Joanna Bruzda
+Author-Email: joanna.bruzda@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: The Cost-of-Carry Model for the FW20 Futures Contracts: Threshold Cointegration Framework
+Abstract: Chapter 11 presents the cost-of-carry model for futures contracts on the Warsaw Stock Exchange index WIG20. Intraday one-minute data has been used. It has been found that the presence of transaction costs causes mispricing series from non-arbitrage cost-of-carry relationships to have a nonlinear form. Arbitrageurs take a long or a short position only if the mispricing is greater in magnitude than a certain threshold. This causes the dynamics of the mispricing series to be effectively described by threshold autoregressive processes with three regimes. Such processes allow for a unit-root behavior in a middle regime, while at the same time being globally second-order stationary. In the chapter a non-arbitrage relationship is examined in the threshold cointegration framework.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Futures contracts; Arbitrage Pricing Theory (APT); Cost-of-Carry Model; Cointegration
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 11
+Pages: 183-205
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_11.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:11:mon

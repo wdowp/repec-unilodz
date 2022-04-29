@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Michał Stachura
+Author-Email: mista@ujk.kielce.pl
+Author-Workplace-Name: Jan Kochanowski University of Kielce, Poland
+Title: Wavelet Methods for Detecting Long-Run Dependence of Stock Indexes and Exchange Rates
+Abstract: The paper treats of an issue that is interrelated to the prediction inseparably. Namely if one models an economic variable with the aid of a stochastic process one should realize to "hat extent the past behaviour of the process would remain the same in the future. Thereby tie notions of the self-similarity and of the long-run dependence may be used to solve this problem. And the accuracy of the prediction can be confirmed or impaired this way. An attempt of the Hurst exponent estimation with the use of wavelet analysis tools is contained in the article. Five empirical indexes are considered and for all of them the estimation yields the hypothesis of short memory. Therefore even if the prediction is necessary and desirable one should be very sceptical and careful when forecasting the deliberated data.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Wavelet methods; Stock indexes; Exchange rates; Long-Run dependence
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 8
+Pages: 123-133
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7180
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:08:foe

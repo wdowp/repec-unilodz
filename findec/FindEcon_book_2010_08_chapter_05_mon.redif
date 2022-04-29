@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Piotr Wdowiński
+Author-Email: piotr.wdowinski@uni.lodz.pl
+Author-Workplace-Name: University of Lodz, Department of Econometrics, Poland
+Title: Automated Stock Price Forecasting System
+Abstract: An empirical interest of Chapter 5 is focused on short-term forecasting of stock returns based on automated stock price forecasting system. In this chapter Wdowiński has proposed a fully automated system to download and process data, estimate models, create output tables and upload results to a remote server. The system is an automated forecasting tool which can provide systematic forecasts of financial variables of high frequency. The system supports the methods of OLS and ML under GARCH specification.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Stock price forecasting; GARCH specification; Automated system; Financial variables of high frequency
+Year: 2010
+Month: 
+Volume: 8
+Edition: 1
+Chapter: 5
+Pages: 69-79
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2010:n:08:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2010/2010_No_8_Ch_5.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2010:n:08:ch:05:mon

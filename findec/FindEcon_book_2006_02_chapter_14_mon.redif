@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Piotr Fiszeder
+Author-Email: piotr.fiszeder@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: Test of the CAPM Model with Time-Varying Covariances for the Polish Stock Market
+Abstract: Chapter 14 tests CAPM model with the application of several specifications of the multivariate GARCH models. Two new extensions of the GARCH-M model are proposed: the GARCH-M model with the price of market risk changing over time according to the random walk process and the GARCH model with the asymmetric GARCH-M effect. In the empirical part tests of the CAPM model are performed. Estimation results suggest that the relation between expected returns and covariances is significant but the price of market risk is positive when return is positive and negative when return is negative.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Capital Asset Pricing Model (CAPM); GARCH model; Stock market
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 14
+Pages: 241-255
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_14.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:14:mon

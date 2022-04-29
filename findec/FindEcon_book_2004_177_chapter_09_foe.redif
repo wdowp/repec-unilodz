@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Stanisław Kluza
+Author-Email: skluza@sgh.waw.pl
+Author-Workplace-Name: Warsaw School of Economics, Poland
+Author-Name: Andrzej Sławiński
+Author-Email: aslawi@sgh.waw.pl
+Author-Workplace-Name: Warsaw School of Economics, Poland
+Title: The Arbitrage at the Interest Rate Market (the Example of the FRA and the Bond Markets)	
+Abstract: The article discusses the relationship between the changes in bond yields and FRA rates. The established models check the strength and the causality of changes at both markets. The intuition suggests that long-term interest rates at the bond market should adjust to changes in FRA rates, which represent expected short-term interest rates. However, the empirical results presented in the paper show the opposite direction. There are several possible explanations of this phenomenon. One of them is the greater liquidity of the bond market, which reacts quicker to changing expectations on the future level of short-term interest rates. The other explanation is that the changes of yields in the bond market, which reflect changes in the risk premium, are transmitted to the FRA market through the arbitrage between different segments of the fixed income market. The lag between changes in the long-term interest rates and short-term forward interest rates enables arbitrage between the bond and the FRA markets. However, recently the arbitrage spread has gradually narrowed and the time to perform the arbitrage has shortened. The change reflects the increasing efficiency of the fixed income market in Poland.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Bond Markets; FRA; IRS; Interest rate; Arbitrage; Asset swap; Monetary market
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 9
+Pages: 137-152
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7176
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:09:foe

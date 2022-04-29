@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Rafał Weron
+Author-Email: rafal.weron@pwr.edu.pl
+Author-Workplace-Name: Wrocław University of Technology, Poland
+Title: Forecasting Wholesale Electricity Prices: A Review of Time Series Models
+Abstract: An empirical interest of Chapter 5 is focused on short-term forecasting of high frequency wholesale electricity prices. Weron compares the performance of several autoregressive models with seasonal patterns and different assumptions on distribution of error term (GARCH heteroskedastic, heavy-tailed, and semi-parametric). He finds mixed evidence of their forecasting power as far as prediction intervals are considered.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Time series models; Forecasting wholesale electricity prices; Autoregressive models; High frequency data
+Year: 2009
+Month: 
+Volume: 7
+Edition: 1
+Chapter: 5
+Pages: 71-82
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2009:n:07:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2009/2009_No_7_Ch_5.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2009:n:07:ch:05:mon

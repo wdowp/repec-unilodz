@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Piotr Fiszeder
+Author-Email: piotr.fiszeder@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: Dynamic Asset Allocation - Markowitz Model
+Abstract: The purpose of this paper is to present dynamic approach to selection of efficient portfolios using a multivariate GARCH model. The paper examines if taking into consideration time varying variances and covariance's of stock returns in portfolio selection increases efficiency of asset allocation process. In order to eliminate influence of selection of expected returns estimator, the minimum variance portfolio is constructed. The results are compared with "traditional" methods of portfolio selection and methods used by practitioners of financial markets.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Markowitz model; GARCH model; Portfolio analysis
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 13
+Pages: 203-215
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7179
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:13:foe

@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Maciej Kostrzewski
+Author-Email: maciej.kostrzewski@uek.krakow.pl
+Author-Workplace-Name: AGH University of Science and Technology, Cracow, Poland
+Title: Bayesian Pricing of European Call Options on the WIG20 Index
+Abstract: According to modern financial literature we assume that observed time series are discrete realizations of continuous processes, strictly speaking Itó processes. The processes are strong solutions of stochastic differential equations' (SDE) (see Karatzas and Shreve 1988). They are nowadays essential devices for modelling financial time series. They are used in term-structure modelling, pricing derivative securities, constructing hedging strategies and so on.
+ The main aim of the chapter is to present the results of Bayesian option pricing. Models considered in the chapter are mostly known and are often applied in practice. The exception is the Extended Ornstein-Uhlenbeck model which is given by non-autonomous SDE.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Bayesian pricing of European call options; WIG20 index
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 10
+Pages: 153-164
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_10.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:10:mon

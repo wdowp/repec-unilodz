@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Anna Pajor
+Author-Email: pajora@uek.krakow.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Title: Bayesian Analysis and Forecasting of the Conditional Correlations Between Stock Index Returns with Multivariate SV Models
+Abstract: Forecasts of financial market volatility and correlations among markets play a crucial role in financial decision making (e.g. hedging strategies, portfolio allocations, Value-at-Risk calculations). The correlations among markets are very important in the global portfolio diversification. Numerous studies document that correlations among international markets vary over time and tend to be higher in highly volatile bear markets than during bull markets (see Solnik et al. 1996; Longin and Solnik 2001, Ang and Bekaert 2002). Longin and Solnik (2001), applying extreme value theory, argue that correlation is not related to market volatility (i.e. large absolute returns) per se but is mainly affected by the market trend. They conclude that conditional correlations increase in bear markets but not in bull markets.
+ The main aim of this chapter is to analyze and compare discrete-time Multivariate Stochastic Volatility (MSV) models from the point of view of their ability to forecast conditional correlations between stock index returns.
+ We consider four MSV models, which include the specifications with zero, as well as constant and time-varying conditional correlations. We study trivariate volatility models for the daily log returns of the WIG index, the Standard & Poor's 500 index, and the FTSE 100 index for the period January 4, 1999 to December 30, 2005. To make inference about the parameters and latent variables we use the Bayesian approach. However, we do not present here the Bayesian statistical methodology, described in Pajor (2005b, 2006).
+ In Section 7.2 we briefly present the model framework. Section 7.3 is devoted to the description of trivariate MSV specifications. In Section 7.4 we present and discuss the empirical results. Some concluding remarks are presented in Section 7.5.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Bayesian analysis; Forecasting stock index returns; Conditional correlations; Multivariate SV models
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 7
+Pages: 101-121
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_7.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:07:mon

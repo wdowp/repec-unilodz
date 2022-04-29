@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Mateusz Pipień
+Author-Email: eepipien@cyf-kr.edu.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Title: Application of Bayesian Inference in Value-at-Risk Forecasting with the Use of Conditionally Asymmetric and Fat-Tailed GARCH Models
+Abstract: Chapter 4 presents an application of the Bayesian inference in Value at Risk (VaR) prediction for PLN/USD exchange rate and the prediction of the minimal capital requirements for market risk. Using various testing procedures, the accuracy of the VaR estimates among models has been compared. In particular, it has been checked if the forecast quality of the capital charge for the market risk is sensitive to changes in sampling model.
+Classification-JEL: C01, E02, F00, G00
+Keywords: GARCH model; VaR method; Market risk; Bayesian inference
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 4
+Pages: 67-80
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_4.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:04:mon

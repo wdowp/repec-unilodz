@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Stanisław Kluza
+Author-Email: skluza@sgh.waw.pl
+Author-Workplace-Name: Warsaw School of Economics, Poland
+Author-Name: Sebastian Stolorz
+Author-Email: sstolorz@uoregon.edu
+Author-Workplace-Name: Warsaw School of Economics, Poland
+Title: Estimation of Steady State Equilibrium Path for Polish Economy in Years 1990–2005
+Abstract: The chapter proposed two alternative approximations of steady state paths of Polish economy in 1990s and thereafter until year 2006. The first approach was based on the economy modelled by a dynamic system of equation. The observed features of the polish economy provided dataset to estimate the extent of the disequilibria and therefore, allowed to generate the equilibrium paths. In the second method, authors first calculated rough estimates of potential output and inflationary pressure, that allowed to build a VAR model of Polish economy. Further analysis allowed to filter out endogenous inflationary pressure from other factors affecting inflation and thus to construct the structured model of inflationary pressure in terms of changes in output and the rate of unemployment. The structure of the model was finally used to replicate time series of potential output and NAIRU.
+ Both methods provide different, though largely consistent results. Particularly, there was a strong negative gap in the first half of the 1990s, followed by a positive output gap in the years 1999–2001, that either closed definitely in the 2005 or is continued.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Steady state; VAR analysis; Polish economy
+Year: 2007
+Month: 
+Volume: 4
+Edition: 1
+Chapter: 9
+Pages: 143-160
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:04:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_4_Ch_9.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:04:ch:09:mon

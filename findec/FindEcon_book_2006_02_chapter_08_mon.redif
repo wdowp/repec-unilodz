@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Ryszard Doman
+Author-Email: rydoman@amu.edu.pl
+Author-Workplace-Name: Wrocław University of Economics, Poland
+Title: Forecasting the Conditional Skewness and Kurtosis of the Polish Financial Returns
+Abstract: Chapter 8 presents evaluation of conditional density forecasts of financial returns, i.e. exchange rate EUR/PLN, stock index MIDWIG, and 6-month WIBOR. The forecasts are derived from GARCH models in which innovations are allowed to have time-varying or even failing to exist skewness and kurtosis. The main finding is that conditional skewness and kurtosis of returns change over time but their dynamics are different.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Kurtosis; Forecasting the return rate of shares; GARCH model; Financial markets
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 8
+Pages: 137-151
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_8.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:08:mon

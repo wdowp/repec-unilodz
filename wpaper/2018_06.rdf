@@ -1,0 +1,37 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Górajski Mariusz
+Author-Name-First: Mariusz
+Author-Name-Last: Górajski
+Author-Email: mariusz.gorajski@uni.lodz.pl
+Author-Workplace-Name: Faculty of Economics and Sociology, University of Lodz
+Author-Name: Kuchta Zbigniew
+Author-Name-First: Zbigniew
+Author-Name-Last: Kuchta
+Author-Email: zbigniew.kuchta@uni.lodz.pl
+Author-Workplace-Name: Faculty of Economics and Sociology, University of Lodz
+Title: Measuring Uncertainty of Optimal Simple Monetary Policy Rules in DSGE models
+Abstract: This paper presents a new approach to measure the parameter uncertainty for optimal simple
+monetary policy rules in the New Keynesian dynamic stochastic general equilibrium models.
+More precisely, we propose a new algorithm which enables to directly introduce parameter
+uncertainty into the optimal simple precommitment rule problem. As a result we find
+distributions of the optimal monetary policy reactions and the minimized welfare losses. To
+compare the distributions of the monetary policy parameters and the welfare losses we apply
+the first order stochastic dominance ordering (SD1). The SD1 inequality between the
+probability distribution is verified by means of the Kolmogorov-Smirnov test. The proposed
+algorithms are applied to the Erceg, Henderson and Levine (2000) small-scale closed
+economy model estimated for the Polish economy. For the welfare-loss-minimizing central
+bank, we examine three types of the dynamic specification of its policy rule: backward-,
+current- and forward-looking. Finally, for a given set of optimal and implementable monetary
+policy rules, we show that the fully specified forward-looking monetary policy rule with
+interest rate smoothing mechanism minimizes the welfare-loss in the sense of the stochastic
+ordering SD1.
+Creation-Date: 2018-10-15
+Revision-Date:
+Publication-Status: 
+File-URL: http://hdl.handle.net/11089/26083
+File-Format: Application/pdf
+File-Function: First version, 2018
+Number: 6/2018
+Classification-JEL: E47, E52
+Keywords: optimal monetary policy, DSGE, uncertainty
+Handle: RePEc:ann:wpaper:6/2018

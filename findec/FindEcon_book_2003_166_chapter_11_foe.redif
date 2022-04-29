@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Piotr Wdowiński
+Author-Email: piotr.wdowinski@uni.lodz.pl
+Author-Workplace-Name: University of Lodz, Poland
+Author-Name: Daniel Wrzesiński
+Author-Email: [TBA]
+Author-Workplace-Name: University of Lodz, Poland
+Title: A Dynamic Analysis of Asset Portfolio
+Abstract: In the paper we give a comparative analysis of stocks portfolios constructed according to Markowitz and Sharpe theories. We propose a dynamic short-term approach to building minimum variance portfolios under variable number of time series observations. The proposed dynamic approach allows for calculating time-varying parameters of variance-covariance matrix of returns in Markowitz model and beta parameters in Sharpe model. We compare empirical returns of dynamic portfolios with returns on index WIG20. The results show that introducing dynamic shares of assets in portfolios built with time series within a period not exceeding a month allows for outperforming returns on the index WIG20.
+Classification-JEL: C01, E02, F00, G00
+Keywords:  Markowitz model; Sharpe model; Parameters stability; Dynamic forecasting; Portfolio optimization
+Year: 2003
+Month: 
+Volume: 166
+Edition: 1
+Chapter: 11
+Pages: 173-182
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 166/2003 - Modern Methods of Analysis and Forecasting Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2003:n:166:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/6832
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2003:n:166:ch:11:foe

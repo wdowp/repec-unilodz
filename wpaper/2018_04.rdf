@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Lütkepohl, Helmut
+Author-Name-First: Helmut
+Author-Name-Last: Lütkepohl
+Author-Email: hluetkepohl@diw.de
+Author-Workplace-Name: DIW Berlin and Freie Universität Berlin
+Author-Name: Staszewska-Bystrova, Anna
+Author-Name-First: Anna
+Author-Name-Last: Staszewska-Bystrova
+Author-Email: anna.bystrova@uni.lodz.pl
+Author-Workplace-Name: Faculty of Economics and Sociology, University of Lodz
+Author-Name: Winker, Peter
+Author-Name-First: Peter
+Author-Name-Last: Winker
+Author-Email: Peter.Winker@wirtschaft.uni-giessen.de
+Author-Workplace-Name: University of Giessen 
+Title: Constructing Joint Confidence Bands for Impulse Response Functions of VAR Models - A Review
+Abstract: Methods for constructing joint confidence bands for impulse response functions which are commonly used in vector autoregressive analysis are reviewed. While considering separate intervals for each horizon individually still seems to be the most common approach, a substantial number of methods have been proposed for making joint inferences about the complete impulse response paths up to a given horizon. A structured presentation of these methods is provided. Furthermore, existing evidence on the small-sample performance of the methods is gathered. The collected information can help practitioners to decide on a suitable confidence band for a structural VAR analysis.
+Length: 
+Creation-Date: 2018-09-30
+Revision-Date:
+Publication-Status: 
+File-URL: http://hdl.handle.net/11089/25920
+File-Format: Application/pdf
+File-Function: First version, 2018
+Number: 4/2018
+Classification-JEL: C32
+Keywords: Impulse responses, vector autoregressive model, joint confidence bands
+Handle: RePEc:ann:wpaper:4/2018

@@ -1,0 +1,37 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Alicja Olejnik
+Author-Name-First: Alicja
+Author-Name-Last: Olejnik
+Author-Email: alicja.olejnik@uni.lodz.pl
+Author-Workplace-Name: University of Lodz
+Author-Name: Agata Zoltaszek
+Author-Name-First: Agata
+Author-Name-Last: Zoltaszek
+Author-Email: agata.zoltaszek@uni.lodz.pl
+Author-Workplace-Name: University of Lodz
+Author-Name: Jakub Olejnik
+Author-Name-First: Jakub
+Author-Name-Last: Olejnik
+Author-Email: jakub.olejnik@wmii.uni.lodz.pl
+Author-Workplace-Name: University of Lodz
+Title: Spatial Solution to Measure Regional Efficiency - Introducing Spatial Data Analysis (SDEA)
+Abstract: The main objective of this paper is to introduce a new approach to measuring efficiency 
+in regional studies through SDEA (Spatial Data Envelopment Analysis). The paper offers a proper mathematical 
+elaboration and a highlight of the differences between classic DEA and newly developed method. Presented 
+literature review and the discussion on theoretical examples, proves the need for new solution to measure 
+regional efficiency, which takes into consideration region-specific spatial context. The introduced method, 
+SDEA, incorporates explicitly spatial interactions (via the W matrix) into the model through spatially 
+weighted inputs and outputs. An example study concerning healthcare efficiency of European regions will 
+be presented to illustrate SDEA. We confront the efficiency results of classic DEA with results of SDEA, 
+which is expanded by the spatial equivalents of inputs and outputs. The results suggest that classic DEA 
+undervalues the regional healthcare efficiency, underestimating the region-specific spatial context.
+Creation-Date: 2019-10-22
+Revision-Date:
+Publication-Status: 
+File-URL: http://hdl.handle.net/11089/30660
+File-Format: Application/pdf
+File-Function: First version, 2019
+Number: 4/2019
+Classification-JEL: C44, C31, R15, I15
+Keywords: spatial data envelopment analysis (SDEA), regional efficiency, spatial interaction, healthcare, diseases of affluence
+Handle: RePEc:ann:wpaper:4/2019

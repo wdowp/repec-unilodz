@@ -1,0 +1,27 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Alexandru Todea
+Author-Email: alexandru.todea@econ.ubbcluj.ro
+Author-Workplace-Name: Babęs-Bolyai University, Cluj Napoca, Romania
+Author-Name: Adrian Zoicas-Ienciu
+Author-Email: adrian.zoicas@econ.ubbcluj.ro
+Author-Workplace-Name: Babęs-Bolyai University, Cluj Napoca, Romania
+Title: The Isolation of Maximum Length Sub-periods in Which a Stock Return Series is Exhibiting Linear and Non-Linear Dependencies (Todea-Zoicas Algorithm)
+Abstract: The origin of the efficient market hypothesis (EMH) can be found in the pioneering works of Bachelier (1900) regarding random price movements and in the empirical researches concerning returns' predictability carried out by Cowles (1933) while the modern literature begins with papers of Samuelson (1965) or Fama (1965). Put it simple, this concept states that when a market is efficient it is impossible to obtain profit from trades determined by a given informational database. Also, price changes are independent and move only as a response to new random information.
+ Most of the empirical literature considers the security prices random walk behavior an associated and not a direct test of the weak form EMH, aspect highlighted by Ko and Lee (1991, p. 224): "If the random walk hypothesis holds, the weak form of the efficient market hypothesis must hold, but not vice versa. Thus, evidence supporting the random walk model is the evidence of market efficiency. But violation of the random walk model need not be evidence of market inefficiency in the weak form". It is essential to find whether investors can use detected dependencies in a historical sequence of stock prices in order to earn abnormal rates of returns. In order to finding an answer, two complementary research approaches are needed: one is to identify the nature of these dependencies and to model them while the second is to study their persistence in time.
+ This chapter, concentrating on the second approach, is debating on the mechanisms of the "windowed" Hinich-Patterson methodology (1995), a test used in many recent studies like those of Brooks and Hinich (1998), Brooks et al. (2000), Ammermann and Patterson (2003) or Lim and Hinich (2005).
+ These	studies are emphasizing the existence of different stock price behaviors namely long random-walk sub-periods alternating with short ones characterized by strong linear and/or non—linear correlation.
+ Because we have reasons to think that the H&P methodology does not allow an accurate isolation of the correlation sub-periods we developed an algorithm in order to improve this aspect. We consider that a precise identification of the correlation sub-period's length is important from many points of view: (1) it allows a more accurate overview on the market efficiency degree (the weak form); (2) it is essential when it comes to build tests regarding the efficiency evolution of the emergent markets; (3) it allows the comparison of different technical analysis strategies profitability in sub-periods exhibiting linear/non-linear dynamics and random walk ones.
+ The chapter is structured in the following sections. Section 5.2 is focused on the H&P methodology and the improved algorithm, Section 5.3 points out the possible use of this new methodology providing pertinent evidences while an empirical study on three of the most liquid stocks listed at Bucharest Stock Exchange is provided in Sections 5.4 and 5.5.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Stock market return; Linear and non-linear dependencies
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 5
+Pages: 69-83
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_5.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:05:mon

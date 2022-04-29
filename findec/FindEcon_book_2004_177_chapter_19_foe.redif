@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Ryszard Doman
+Author-Email: rydoman@amu.edu.pl
+Author-Workplace-Name: Adam Mickiewicz University, Poznań, Poland
+Title: Application of High-Frequency Data in Forecasting Polish Stock Indices by Means of Stochastic Volatility Models
+Abstract: Stochastic volatility (SV) models form a class of models applied to financial instrument volatility forecasting that is alternative to the one consisting of better known GARCH models. In contrast to GARCH models, the time-varying volatility in SV models is described by means of two uncorrelated stochastic processes. In this paper we apply stochastic volatility models to forecasting the daily volatility of the Warsaw Stock Exchange indices. The obtained forecasts are evaluated against the daily realized volatility understood as a sum of squared intraday returns. We also investigate the impact of entering the realized volatility as an additional explanatory variable on the quality of the forecasts.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Realized volatility; Stochastic volatility; Forecasting; High-frequency data
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 19
+Pages: 311-328
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7196
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:19:foe

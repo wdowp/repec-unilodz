@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Mateusz Pipień
+Author-Email: eepipien@cyf-kr.edu.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Title: Bayesian Comparison of GARCH Processes with Asymmetric and Heavy Tailed Conditional Distributions
+Abstract: The main goal of this chapter is to define a set of competing GARCH specifications, all with asymmetric conditional distributions, which also allow for heavy tails. As an initial specification we consider GARCH model with conditional Student-t distribution with unknown degrees of freedom parameter, proposed by Bollerslev (1987). By introducing skewness, according to the methods mentioned above and by incorporating the resulting family as a conditional distribution, we generate GARCH models which compete in explaining possible asymmetry of the conditional and unconditional distribution of the financial data. We also consider GARCH process with conditional alfa-Stable distribution, which formally, from the definition, also allows for skewness, see Nolan (1996).
+Classification-JEL: C01, E02, F00, G00
+Keywords: Bayesian econometrics; GARCH model; Asymmetric and heavy tailed conditional distributions
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 8
+Pages: 123-140
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_8.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:08:mon

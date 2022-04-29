@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Jakub Olejnik
+Author-Name-First: Jakub
+Author-Name-Last: Olejnik
+Author-Email:  
+Author-Workplace-Name: Department of Mathematics and Computer Science, University of Lodz
+Author-Name: Alicja Olejnik
+Author-Name-First: Alicja
+Author-Name-Last: Olejnik
+Author-Email: 
+Author-Workplace-Name: Faculty of Economics and Sociology, University of Lodz
+Title: Improved asymptotic analysis of Gaussian QML estimators in spatial models
+Abstract: This paper presents a fundamentally improved statement on asymptotic behaviour of the well-known Gaussian QML estimator of parameters in high-order mixed regressive/autoregressive spatial model. We generalize the approach previously known in the econometric literature by considerably weakening assumptions on the spatial weight matrix, distribution of the residuals and the parameter space for the spatial autoregressive parameter. As an example application of our new asymptotic analysis we also give a statement on the large sample behaviour of a general fixed effects design.
+Length:
+Creation-Date: 2017-12
+Revision-Date:
+Publication-Status: 
+File-URL: http://dspace.uni.lodz.pl:8080/xmlui/bitstream/handle/11089/23762/LEWP_9_2017.pdf?sequence=1&isAllowed=y
+File-Format: Application/pdf
+File-Function: First version, 2017
+Number: 9/2017
+Classification-JEL: C21, C23, C51
+Keywords: spatial autoregression, quasi-maximum likelihood estimation, high-order SAR model, asymptotic analysis, fixed effects model
+Handle: RePEc:ann:wpaper:9/2017

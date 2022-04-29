@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Magdalena Osińska
+Author-Email: emo@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Author-Name: Witold Orzeszko
+Author-Email: vit@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: Detecting Nonlinear Causality at Financial Markets
+Abstract: Chapter 15 presents an analysis of the concept of nonlinear causality. The concept of Granger causality is widely known. It is usually applied to linear economic relationships. There are, however, two facts related to the nonlinear case. The former concerns the general definition of Granger causality. It is formulated in terms of conditional probability density, and therefore can be extended for any functional form of the relationship. The second fact concerns the operational character of the analyzed concept. It is not easy to propose the universal tool. The chapter has discussed advantages and disadvantages of nonlinear causality definition and its consequences for empirical results. The nonlinear testing has been applied to financial time series.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Causality analysis; Financial markets; Time-series analysis; Econometric models
+Year: 2006
+Month: 
+Volume: 2
+Edition: 1
+Chapter: 15
+Pages: 257-274
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2006:n:02:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_15.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2006:n:02:ch:15:mon

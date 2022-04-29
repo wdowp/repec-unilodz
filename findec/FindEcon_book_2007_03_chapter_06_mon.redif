@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Piotr Płuciennik
+Author-Email: pplucienk@amu.edu.pl
+Author-Workplace-Name: Adam Mickiewicz University, Poznań, Poland
+Title: Using Implied Volatility to Forecast Daily Realized Volatility of WIG20 Index
+Abstract: Volatility is one of the most important concepts in financial market theory and practice. It is often regarded as a measure of risk of financial assets. Interest in volatility is manifested both on theoretical plane for risk management models and for practical purposes e.g. decrease in risk of investment or achievement of larger incomes.
+ Volatility forecasting has Been developing for last 25 years. One of the most important class of volatility forecasting models is the class of para-metric models. The high degree of intertemporal volatility persistence observed by such models suggests that the variability of stock index returns is highly predictable and that past observations contain valuable information for the prediction of future volatility. The comparison of various volatility forecasting models and finding of the best fitted model is a very important issue in financial econometrics. Therefore, in the case of possessing the time series of the prices of options on the WIG20 index (635 daily quotations on March 24, 2006), we decided to forecast the daily volatility of the WIG20 index with GARCH model containing the implied volatility as an additional explanatory variable. We compare the volatility forecast obtained by both GARCH model and GARCH model with the additional explanatory variable, with the daily realized volatility calculated from intraday returns.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Implied Volatility; Forecasting daily realized volatility; WIG20 Index
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 6
+Pages: 85-98
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_6.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:06:mon

@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Ryszard Doman
+Author-Email: rydoman@amu.edu.pl
+Author-Workplace-Name: Adam Mickiewicz University in Poznań, Poland
+Title: Forecasting the Dependence Between Polish Financial Returns
+Abstract: In this chapter, for a given one-parameter copula family, we propose a parametric conditional copula model in which the copula parameter is allowed to evolve over time, and the evolution is governed by some specification involving Kendall's tau dependence measures of the marginal returns. The model is applied to modelling and forecasting the conditional dependence in the case of two pairs of Polish financial returns: exchange rates EUR/PLN and USD/PLN, and stock indices WIG20 and MIDWIG.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Mathematical modeling; Rate of return calculation; Polish Zloty; Euro; United States dollar (USD)
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 3
+Pages: 45-58
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_3.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:03:mon

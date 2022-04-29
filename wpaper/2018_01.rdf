@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Daniel Grabowski
+Author-Name-First: Daniel
+Author-Name-Last: Grabowski
+Author-Email:  
+Author-Workplace-Name: Department of Economics, University of Giessen
+Author-Name: Anna Staszewska-Bystrova
+Author-Name-First: Anna
+Author-Name-Last: Staszewska-Bystrova
+Author-Email: 
+Author-Workplace-Name: Faculty of Economics and Sociology, University of Lodz
+Author-Name: Peter Winker
+Author-Name-First: Peter
+Author-Name-Last: Winker
+Author-Email: 
+Author-Workplace-Name: Department of Economics, University of Giessen
+Title: Skewness-Adjusted Bootstrap Confidence Intervals and Confidence Bands for Impulse Response Functions
+Abstract: This article investigates the construction of skewness-adjusted confidence intervals and joint confidence bands for impulse response functions from vector autoregressive models. Three different implementations of the skewness adjustment are investigated. The methods are based on a bootstrap algorithm that adjusts mean and skewness of the bootstrap distribution of the autoregressive coefficients before the impulse response functions are computed. Using extensive Monte Carlo simulations, the methods are shown to improve the coverage accuracy in small and medium sized samples and for unit root processes for both known and unknown lag orders.
+Length:
+Creation-Date: 2018-03-08
+Revision-Date:
+Publication-Status: 
+File-URL: http://dspace.uni.lodz.pl:8080/xmlui/bitstream/handle/11089/24232/LEWP_1_2018.pdf?sequence=1&isAllowed=y
+File-Format: Application/pdf
+File-Function: First version, 2018
+Number: 1/2018
+Classification-JEL: C15, C32
+Keywords: Bootstrap, confidence intervals, joint confidence bands, vector autoregression
+Handle: RePEc:ann:wpaper:1/2018

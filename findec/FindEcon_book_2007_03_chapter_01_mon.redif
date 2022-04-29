@@ -1,0 +1,25 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Jacek Osiewalski
+Author-Email: eeosiewa@cyf-kr.edu.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Author-Name: Anna Pajor
+Author-Email: pajora@uek.krakow.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Title: Flexibility and Parsimony in Multivariate Financial Modelling : a Hybrid Bivariate DCC-SV Model
+Abstract: In a previous bivariate GARCH and stochastic variance (SV) model comparison based on Bayes factors and posterior odds Osiewalski et al. (2006) have shown that even simple SV specifications fit the data much better than very sophisticated GARCH structures. This phenomenon can be attributed to describing volatility through latent AR(1) processes, which is the main feature of the SV class and which yields its distributional flexibility and ease in modelling outliers. On the other hand, sequences of estimates of the conditional standard deviations and correlation coefficients can be similar for good SV and reasonable GARCH models, despite that the conditional covariance matrices are not directly comparable (we condition on different variables in GARCH and SV models).
+ The aim of this chapter is to combine the parsimony of the GARCH-type DCC structure proposed by Engle (2002) with the distributional flexibility of the stochastic discount factor (SDF) specification considered by Jacquier et al. (2006). The SDF model uses just one latent process to describe a multivariate time series and, thus, leads to the same dynamics of all conditional variances and covariances (and, thus, to constant conditional correlations), but it can explain outliers well enough to ensure much better fit than the DCC structure. Our hybrid DCC-SDF model allows for different dynamics of each conditional variance or covariance (like DCC) and keeps a latent process in the conditional covariance matrix in order to describe outliers (like SDF). Here we focus only on the bivariate case.
+ As in our previous papers, some written jointly with Mateusz Pipień, we use Bayesian methodology and, for the sake of comparison, daily growth rates of PLN/USD and PLN/DEM (February 6, 1996 - December 31, 2001). We show that the hybrid DCC-SDF specification can be much more probable a posteriori than SDF, DCC and other GARCH structures considered previously. Also, our DCC-SDF model leads to interesting posterior inference on within-sample volatilities and conditional correlation; the results are close to the ones obtained in more complicated bivariate SV models (which are difficult to use in higher dimensions).
+ Due to space limitations, we do not present the Bayesian approach, described in our other papers. Let us only mention that the Bayesian DCC-SDF model is analyzed through Gibbs sampling with Metropolis Hastings steps. In Section 1.2 we review the main models from previous studies, thus establishing notation. In Section 1.3 our new hybrid model is briefly introduced. Section 1.4 presents the results of the Bayesian model com-parison, while Section 1.5 is devoted to posterior results obtained using the new covariance structure. Some concluding remarks are grouped in Section 1.6.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Financial analysis; GARCH model; Stochastic models
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 1
+Pages: 11-26
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_1.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:01:mon

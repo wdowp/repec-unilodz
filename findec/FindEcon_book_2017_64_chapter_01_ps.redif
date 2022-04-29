@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Lech Kruś
+Author-Email: krus@ibspan.waw.pl
+Author-Workplace-Name: Polish Academy of Sciences
+Author-Name: Irena Woroniecka-Leciejewicz
+Author-Email: woroniec@wit.edu.pl
+Author-Workplace-Name: Polish Academy of Sciences
+Title: Monetary-Fiscal Game Analyzed Using a Macroeconomic Model for Poland
+Abstract: In the paper a monetary-fiscal game is formulated and analyzed. It describes interactions of the monetary and fiscal authorities. Each authority tries to achieve its own goal: the fiscal authority – assumed GDP growth, and the monetary authority – an inflation level. A macroeconomic model for the Polish economy has been formulated on the basis of the New Neoclassical Synthesis concept and respectively extended to describe effects of the fiscal instruments. The model parameters have been estimated using statistical data of the Polish economy from the period 2000–2014.
+ A computer-based system calculating results of the game has been constructed using the above model. A sequence of simulations have been made in which payoffs of the game were derived for alternative monetary and fiscal policies. Results of the policy mix strategies alternative to the historical policies in Poland were also considered.
+ In the paper the best response strategies of the authorities and the Nash equilibria are analyzed when the authorities assume independently their goals. The simulation results are presented and discussed for the cases when the Nash equilibria is Pareto optimal but also when it is not Pareto optimal. It is shown also that the best response strategies may lead to the extremely restrictive or expansive policies.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Monetary-fiscal game; Macroeconomic model; Policy mix; Nash equilibrium; Pareto optimality
+Year: 2017
+Month: September
+Volume: 64
+Edition: 1
+Chapter: 1
+Pages: 285-304
+Book-Title: Statistical Review, vol. 64, 2017, 3
+In-Book: RePEc:ann:findeb:book:y:2017:n:64:ps
+File-URL: https://ps.stat.gov.pl/Article/2017/3/285-304
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2017:n:64:ch:01:ps

@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Jacek Osiewalski
+Author-Email: eeosiewa@cyf-kr.edu.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Author-Name: Mateusz Pipień
+Author-Email: eepipien@cyf-kr.edu.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Title: Bayesian Pricing of an European Call Option Using a GARCH Model with Asymmetries
+Abstract: In this paper option pricing is treated as an application of Bayesian predictive analysis. The distribution of the discounted payoff, induced by the predictive density of future observables, is the basis for direct option pricing, as in Bauwens and Lubrano (1997). We also consider another, more eclectic approach to option pricing, where the predictive distribution of the Black-Scholes value is used (with volatility measured by the conditional standard deviation at time of maturity). We use a model framework that allows for two types of asymmetry in GARCH processes: skewed t conditional densities and different reactions of conditional scale to positive/negative stocks. Our skewed t-GARCH(l, 1) model is used to describe daily changes of the Warsaw Stock Exchange Index (WIG) from 4.01.1995 till 8.02.2002. The data till 28.09.2001 are used to obtain the posterior and predictive distributions, and to illustrate Bayesian option pricing for the remaining period.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Bayesian inference; Financial econometrics; Volatility models; Forecasting; Derivative pricing
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 14
+Pages: 219-238
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7178
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:14:foe

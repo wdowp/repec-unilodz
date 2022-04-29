@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Małgorzata Doman
+Author-Email: malgorzata.doman@ue.poznan.pl
+Author-Workplace-Name: Poznań University of Economics, Poland
+Title: Structural Breaks and Long Memory in the Volatility of Polish Exchange Rates
+Abstract: In this chapter we investigate the properties of Polish exchange rates volatility. The time series under scrutiny are returns on the exchange rates EUR/PLN, GBP/PLN, NOK/PLN and USD/PLN. Similarly to Beine and Laurent, we estimate FIGARCH and Markov-switching FIGARCH models and try to answer the question about the dependencies between structural change and long memory. Our results differ from those by Beine and Laurent. All return series reveal the long memory in volatility but that effect can be completely replaced by Markov-switching in the returns and volatility. There is no evidence of remaining long memory when we allow for structural changes. MS-GARCH models seem to provide slightly better forecasts than FIGARCH models.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Structural breaks; Long memory; Volatility of Polish exchange rates
+Year: 2007
+Month: 
+Volume: 4
+Edition: 1
+Chapter: 2
+Pages: 25-40
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:04:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_4_Ch_2.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:04:ch:02:mon

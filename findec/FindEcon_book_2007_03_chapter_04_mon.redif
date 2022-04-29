@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Paweł Miłobędzki
+Author-Email: pawel.milobedzki@ug.edu.pl
+Author-Workplace-Name: University of Gdansk, Poland
+Title: A Note on the Market Model Specification when Stocks Markets Are Integrated
+Abstract: The purpose of this chapter is to demonstrate the usefulness of VEC representation in estimation of the first-pass regression (extended multi index model) using data from the Warsaw Stock Exchange (WSE). In what follows the natural logs of prices of the portfolios mimicking the main WSE indices, WIG (the whole market) and WIG20 (top 20 blue chips), and some sectoral indices are used. They include WIG-Ban (banking), WIG-Bud (construction), WIG-Inf (it), WIG-Spoz (food) and WIG-Tel (telecommunication). All of them except for WIG20 are the return type indices. Estimation and inference is nested within the methodology developed by Johansen (1988, 1991). The main conclusions drawn on the monthly series from the period May 2000 - November 2005 are that there has existed at least one co-integrating vector and a moderate feedback into some sectors caused by departures from the long run equilibrium.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Econometric modeling; Stock markets; Warsaw Stock Exchange Index
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 4
+Pages: 61-67
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_4.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:04:mon

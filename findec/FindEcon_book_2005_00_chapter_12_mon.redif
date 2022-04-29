@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Przemysław Garsztka
+Author-Email: przemyslaw.garsztka@ue.poznan.pl
+Author-Workplace-Name: Poznań University of Economics, Poland
+Author-Name: Maciej Kokorniak
+Author-Email: maciej.kokorniak@konto.pl
+Author-Workplace-Name: Poznań University of Economics, Poland
+Title: An Application of Neural Networks to Find Risky Credit Positions and Forecasting Consumer Loans Default Situation
+Abstract: Chapter 12 presents an application of a neural network in credit rating. The results show that artificial neural networks help to define credit risk classes with a relatively small number of neurons in the hidden layer.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Neural networks; Consumer loans default forecasting; Credit rating
+Year: 2005
+Month: 
+Volume: 0
+Edition: 1
+Chapter: 12
+Pages: 159-176
+Book-Title: Forecasting Financial Markets. Theory and Applications
+In-Book: RePEc:ann:findeb:book:y:2005:n:00:mon
+File-URL: 
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2005:n:00:ch:12:mon

@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Fabio Filipozzi
+Author-Email: fabio_filipozzi@yahoo.com
+Author-Workplace-Name: Tallinn University of Technology, Estonia
+Title: Modelling the Time-Varying Risk Premium by Using the Kalman Filter: the Euro Money Market Case
+Abstract: Fabio Filipozzi in Chapter 8 attempts to capture risk premium in euro zone money market rates with a time-varying coefficient estimated by Kalman filter. The state space model allows for the inclusion of market risk premium which is correlated with a business cycle. The author also finds that forward rates tend to underestimate the future short-term interest rates contrarily to the conclusions of expectation hypothesis.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Time-varying risk premium; Kalman filter; Euro money market
+Year: 2011
+Month: 
+Volume: 9
+Edition: 1
+Chapter: 8
+Pages: 127-140
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2011:n:09:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2011/2011_No_9_Ch_8.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2011:n:09:ch:08:mon

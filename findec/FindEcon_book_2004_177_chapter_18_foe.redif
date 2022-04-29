@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Małgorzata Doman
+Author-Email: malgorzata.doman@ue.poznan.pl
+Author-Workplace-Name: Poznań University of Economics and Business, Poland
+Title: Forecasting Polish Stock Indices Volatility Using GARCH Models and High Frequency Data
+Abstract: The notion of daily realized volatility introduced by Andersen and Bollerslev gave a new impulse to research connected with modeling and forecasting the volatility of financial returns using GARCH models. Daily realized volatility is a sum of squared intraday returns. Volatility forecasts obtained from GARCH models improve when instead of daily squared returns they are evaluated against the realized volatility. In this paper we calculate and investigate volatility forecasts for stock indices from the Warsaw Stock Exchange delivered by GARCH models with realized volatility as an additional explanatory variable.
+Classification-JEL: C01, E02, F00, G00
+Keywords: GARCH model; High-frequency data; Realized volatility; Forecasting
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 18
+Pages: 291-309
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7202
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:18:foe

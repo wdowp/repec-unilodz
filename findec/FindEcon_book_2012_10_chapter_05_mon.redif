@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Zuzanna Wośko
+Author-Email: zuzanna.wosko@sgh.waw.pl
+Author-Workplace-Name: University of Łódź, Poland
+Title: Using Linear Filters for Detecting Cycles in Survey Data
+Abstract: Z. Wośko in Chapter 5 outlines the problems connected with detecting business cycles. It was shown that selected linear filters – Hodrick-Prescott, Baxter-King and Christiano-Fitzgerald – show their weakness when applied to non-stationary time series such as diffusion indices of survey data. It was difficult to definitely recommend one of the filters based on simulations.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Linear filters; Business cycles; Non-stationary time series; Survey data
+Year: 2012
+Month: 
+Volume: 10
+Edition: 1
+Chapter: 5
+Pages: 87-106
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2012:n:10:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2012/2012_No_10_Ch_5.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2012:n:10:ch:05:mon

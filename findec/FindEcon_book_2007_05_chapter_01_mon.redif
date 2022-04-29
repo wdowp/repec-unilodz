@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Piotr Fiszeder
+Author-Email: piotr.fiszeder@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: Testing the Arbitrage Pricing Model with a Factor Garch Model for the Polish Stock Market
+Abstract: In Chapter 1 P. Fiszeder applies the Engle’s factor GARCH model to test the Arbitrage Pricing Theory for the sector portfolios of stocks from the Warsaw Stock Exchange (WSE). The most interesting is the application of the broad selection of financial factors (al-though only market returns appear to be significant) and the modifications of original two-stage estimation method with an asymmetric GARCH-M in the first stage, and with a multivariate GARCH structure in the second stage.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Arbitrage pricing model; Factor Garch model; Polish stock market
+Year: 2007
+Month: 
+Volume: 5
+Edition: 1
+Chapter: 1
+Pages: 11-24
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:05:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_5_Ch_1.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:05:ch:01:mon

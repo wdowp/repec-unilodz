@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Magdalena Osińska
+Author-Email: emo@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: Forecasting Stochastic Unit Root Models
+Abstract: The aim of the research was to find out the mechanism underlying the stock prices behaviour and extrapolate it out of the sample. The stochastic unit root model was assumed. The empirical results of the tests confirmed that hypothesis in significant majority of analysed time series. Then the models were estimated and used for prediction. Two methods of forecasting were used. These were: MC-based forecasting and sequential extrapolation of fitted values. The comparison of the results has shown that the main characteristics of the models are statistically significant. Comparing the forecasting results three main findings can be stated:
+ • sequential extrapolation seems to be a satisfactory method of forecasting STUR processes;
+ • forecasting weekly data we can observe the fact: the longer forecast horizon the smaller prediction error;
+ • in the sample - better results were obtained for MC method.
+ As concerns the effectiveness of central tendency measures like median or mean, not homogeneous results are obtained, so it cannot be decided which one is to be preferred. Despite of the deterministic or stochastic method of forecasting, stochastic unit root model seems to be a quite reasonable representation of the conditional mean of the stock prices and its behaviour in forecasting can be considered as satisfactory.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Stochastic models; Shares prices; Monte Carlo simulation
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 2
+Pages: 27-43
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_2.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:02:mon

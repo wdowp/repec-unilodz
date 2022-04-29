@@ -1,0 +1,34 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Dominika Bogusz
+Author-Name-First: Dominika
+Author-Name-Last: Bogusz
+Author-Workplace-Name: University of Lodz, Faculty of Economics and Sociology
+Author-Name: Mariusz Gorajski
+Author-Name-First: Mariusz
+Author-Name-Last: Gorajski
+Author-Email:  
+Author-Workplace-Name: University of Lodz, Faculty of Economics and Sociology
+Title: Optimal Goodwill Model with Consumer Recommendations and Market Segmentation
+Abstract: We propose a new dynamic model of product goodwill where a product is sold in many
+market segments, and where the segments are indicated by the usage experience of consumers. The
+dynamics of product goodwill is described by a partial differential equation of the Lotka–Sharpe–
+McKendrick type. The main novelty of this model is that the product goodwill in a segment of
+new consumers depends not only on advertising effort, but also on consumer recommendations,
+for which we introduce a mathematical representation. We consider an optimal goodwill model
+where in each market segment the control variable is the company’s advertising efforts in order to
+maximize its profits. Using the maximum principle, we numerically find the optimal advertising
+strategies and corresponding optimal goodwill paths. The sensitivity of these solutions is analysed.
+We identify two types of optimal advertising campaign: ‘strengthening’ and ‘supportive’. They
+may assume different shapes and levels depending on the market segment. These experiments
+highlight the need for both researchers and managers to consider a segmented advertising policy
+Length:
+Creation-Date: 2014-09
+Revision-Date: 2014-10
+Publication-Status: 
+File-URL: http://dspace.uni.lodz.pl:8080/xmlui/bitstream/handle/11089/5447/Bogusz_Gorajski_LEWP_1_2014.pdf?sequence=1&isAllowed=y
+File-Format: Application/pdf
+File-Function: First version, 2014
+Number: 1/2014
+Classification-JEL:
+Keywords: Optimal Control, applications, deterministic, advertising and media, product policy, segmentation
+Handle: RePEc:ann:wpaper:1/2014

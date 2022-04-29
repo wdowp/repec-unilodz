@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Tomasz Kozdraj
+Author-Email: [TBA]
+Author-Workplace-Name: University of Lodz, Poland
+Title: Return Rate Period and Optimal Lower Partial Moment Hedge Ratio
+Abstract: Risk management became a main issue in the last years on the Financial markets. Particularly derivates has gained popularity due to the possibility of creating adequate hedging strategy. That sort of strategy depends on attitude towards risk. While most of the investors prefer variance, some may benefit from using other measures of risk in their investment decisions, especially if they are concerned with minimizing the downside risk of their portfolios. A numerical method for calculating hedge ratios using a downside risk measure (lower partial moment) is presented in the article. Another important problem in the hedging strategy is a selection of return rate period. Adequately matched period could be crucial to estimation of hedge ratio. The method was applied to the Warsaw Stock Exchange WIG20 index and futures on WIG20. The result shows that lower partial moment hedge ratios with adequately set return rate period are effective in reducing downside risk.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Return rate; Hedge ratios; Lower partial moment; Risk measure
+Year: 2003
+Month: 
+Volume: 166
+Edition: 1
+Chapter: 17
+Pages: 253-267
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 166/2003 - Modern Methods of Analysis and Forecasting Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2003:n:166:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/6852
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2003:n:166:ch:17:foe

@@ -1,0 +1,25 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Monika Jeziorska-Pąpka
+Author-Email: [TBA]
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Author-Name: Magdalena Osińska
+Author-Email: emo@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Author-Name: Maciej Witkowski
+Author-Email: [TBA]
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: Forecasting Returns Using Threshold Models
+Abstract: In this paper we present the problem of forecasting efficiency of the TAR models. Three methods of forecasting are considered to compare their accuracy: the Monte Carlo method, and the two versions the bootstrap technique. The basic models are two- or three- regimes stationary threshold autoregressive models with the endogenous or exogenus switching variable. The time series set consists of the weekly stock returns of the banking sector quoted at the Warsaw Stock Exchange.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Threshold models; Foreasting; Monte Carlo; Bootstrap
+Year: 2005
+Month: 
+Volume: 192
+Edition: 1
+Chapter: 8
+Pages: 129-142
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 192/2005 - Issues in Modeling, Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2005:n:192:foe
+File-URL: https://dspace.uni.lodz.pl/handle/11089/17963
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2005:n:192:ch:08:foe

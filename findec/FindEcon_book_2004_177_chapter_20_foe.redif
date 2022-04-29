@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Witold Orzeszko
+Author-Email: vit@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: Application of a Local Polynomial Approximation Chaotic Time Series Prediction
+Abstract: Chaos theory has become a new approach to financial processes analysis. Due to complicated dynamics, chaotic time series seem to be random and, in consequence, unpredictable. In fact, unlike truly random processes, chaotic dynamics can be forecasted very precisely in a short run. In this paper, a local polynomial approximation is presented. Its efficiency, as a method of building short-term predictors of chaotic time series, has been examined. The presented method has been applied to forecasting stock prices and indices from the Warsaw Stock Exchange. Additionally, obtained results have been used to detect chaos in analyzed time series.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Chaos forecasting; Deterministic chaos; Chaotic time series; Local polynomial approximation
+Year: 2004
+Month: 
+Volume: 177
+Edition: 1
+Chapter: 20
+Pages: 331-346
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 177/2004 - Forecasting and Decision-Making in Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2004:n:177:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7190
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2004:n:177:ch:20:foe

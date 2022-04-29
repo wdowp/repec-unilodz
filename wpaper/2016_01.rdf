@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Mariusz Gorajski
+Author-Name-First: Mariusz
+Author-Name-Last: Gorajski
+Author-Email: 
+Author-Workplace-Name: Department of Econometrics, Faculty of Economics and Sociology, University of Lodz, Poland
+Title: Robust monetary policy in a linear model of the polish economy: is the uncertainty in the model responsible for the interest rate smoothing effect? 
+Abstract: Estimates of the generalised Taylor rule suggest that monetary policy in Poland can be characterized as having reacted in a moderate fashion to output and inflation gaps and are strongly dependent on the lagged interest rate. Moreover, as for the majority of central banks the short-term rate paths are smooth and only gradual changes can be observed. Optimal monetary policy models in the linear-quadratic framework produce high variability of interest rates, and are hence inconsistent with the data. One can obtain gradual behaviour of optimal monetary policy by adding an interest rate smoothing term to the central bank objective. This heuristic procedure has not much substantiation in the central bank's targets and raises the question: What are the rational reasons for the gradual movements in the monetary policy instrument? In this paper we determine optimal monetary polices in a VAR model of the Polish economy with parameter uncertainty. By incorporating a proper structure of multiplicative uncertainty in the linear-quadratic model of the Polish economy we find a data consistent robust monetary policy rule. Thus proving that parameter uncertainty can be the rationale for "timid" movements in the short-interest rate dynamics. Finally, we show that there is trade-off  between parameter uncertainty and the interest rate smoothing incentive.
+Length:
+Creation-Date: 2016-01
+Revision-Date:
+Publication-Status: 
+File-URL: http://dspace.uni.lodz.pl:8080/xmlui/bitstream/handle/11089/16882/LEWP_1_2016.pdf?sequence=1&isAllowed=y
+File-Format: Application/pdf
+File-Function: First version, 2016
+Number: 1/2016
+Classification-JEL: E47, E52
+Keywords: Optimal Monetary Policy, Parameter Uncertainty, the Brainard conservatism principle,
+Interest rate smoothing, SVAR model
+Handle: RePEc:ann:wpaper:1/2016

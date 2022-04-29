@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Łukasz Lenart
+Author-Email: lenartl@uek.krakow.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Author-Name: Błażej Mazur
+Author-Email: blazej.mazur@uek.krakow.pl
+Author-Workplace-Name: Cracow University of Economics, Poland
+Title: On Bayesian Inference for Almost Periodic in Mean Autoregressive Models
+Abstract: The goal of the paper is to discuss Bayesian estimation of a class of univariate time-series models being able to represent complicated patterns of “cyclical” fluctuations in mean function. We highlight problems that arise in Bayesian estimation of parametric time-series model using the Flexible Fourier Form of Gallant (1981). We demonstrate that the resulting posterior is likely to be highly multimodal, therefore standard Markov Chain Monte Carlo (MCMC in short) methods might fail to explore the whole posterior, especially when the modes are separated. We show that the multimodality is actually an issue using the exact solution (i.e. an analytical marginal posterior) in an approximate model. We address that problem using two essential steps. Firstly, we integrate the posterior with respect to amplitude parameters, which can be carried out analytically. Secondly, we propose a non-parametrically motivated proposal for the frequency parameters. This allows for construction of an improved MCMC sampler that effectively explores the space of all the model parameters, with the amplitudes sampled by the direct approach outside the MCMC chain. We illustrate the problem using simulations and demonstrate our solution using two real-data examples.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Bayesian inference; Almost periodic mean function; Autoregressive model; MCMC sampler
+Year: 2016
+Month: September
+Volume: 63
+Edition: 1
+Chapter: 1
+Pages: 255-272
+Book-Title: Statistical Review, vol. 63, 2016, 3
+In-Book: RePEc:ann:findeb:book:y:2016:n:63:ps
+File-URL: https://ps.stat.gov.pl/Article/2016/3/255-272
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2016:n:63:ch:01:ps

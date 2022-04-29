@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Jacek Kwiatkowski
+Author-Email: jkwiat@umk.pl
+Author-Workplace-Name: Nicolaus Copernicus University in Toruń, Poland
+Title: A Bayesian Inference About Simple STUR Models with GARCH Errors
+Abstract: It is well known in empirical finance that many time series display some typical features. One of them is that (logarithmic) prices of financial assets display random walk-type behavior. Assets prices are assumed to conform to a martingale. The conditional expected value of the tomorrow's price, given all relevant information up to and including today should equal today's value. (Franses and van Dijk 2002). Therefore many empirical researches concern Autoregressive Integrated Moving Average (ARIMA) models introduced by Box and Jenkins (1976), where we assume that prices on assets such as stocks and currencies' exchange rates are difference-stationary time series. Another well-known feature of returns on financial time series is that their conditional volatility changes over time. In particular, the large movements in prices tend to follow large movements, and small movements tend to follow small movements. It means, that volatile periods, characterized by large returns alternate with more tranquil periods in which return are small. This phenomena is called volatility clustering. The Generalized Autoregressive Conditional Heteroscedasticity (GARCH) models, introduced by Engle (1982) and Bollerslev (1986), are designed to capture certain characteristics of financial time series. In particular, they are capable of describing the feature of volatility clustering and other typical features, such as excess kurtosis and fat-tails.
+ Granger and Swanson (1997) show that time series that requires the first-differencing filter are not exactly integrated of order one (see also Leybourne et al. 1996). They argue that macroeconomic and finance series are often processes that have a root that is not constant, but is stochastic. The parameters of the model are followed by an autoregressive mechanism with mean equal to one. This implies that the original series tend to possess one unit root in the long run, but in sub-periods may have stationary or explosive root. Time-varying parameters models designed to capture this aspect of the time series dynamics are called Stochastic, Unit Root models (STUR). IL seems that, due to time-varying parameters we can classify STUR models to quite general form, namely double stochastic model. The double stochastic model encompasses many first generation models like: ARMA models, random coefficient AR models, dynamic linear state models, bilinear models and others (Tong 1990).
+ An interesting special case of the STUR models arises if the errors are assumed to be heteroscedastic and changes of conditional variance of errors are function of time. Introducing STUR-GARCH model, we can investigate sample properties between random unit root and conditional variance.
+ Model choice is a fundamental problem in data analysis. It seems that Bayesian inference is particularly useful and appealing tool. Bayesian met-hods provides exact finite sample inference and it is quite flexible in handling complex models. Unlike classical inference, Bayesian approach allows to inference about competing models using their posterior probabilities. Moreover, we can choose a single model or average over discrete set of models using their posterior distributions.
+ The subject of the chapter focuses on Bayesian approach to analyze simple Stochastic Unit Root model with GARCH disturbances. In particularly, it presents estimation and model sample properties of STUR-GARCH(1,1) model.
+ The chapter is organized as follows: Section 9.2 describes the STUR-GARCH model and the parameter estimation, testing procedure end estimation details. Section 9.3 compare sample properties of STUR-GARCH and GARCH model. Section 9.4 concludes.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Bayesian inference; STUR model; GARCH errors
+Year: 2007
+Month: 
+Volume: 3
+Edition: 1
+Chapter: 9
+Pages: 141-152
+Book-Title: FindEcon Monograph Series: Advances in Financial Market Analysis
+In-Book: RePEc:ann:findeb:book:y:2007:n:03:mon
+File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_9.pdf
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2007:n:03:ch:09:mon

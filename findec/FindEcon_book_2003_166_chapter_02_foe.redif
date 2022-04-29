@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Chapter 1.0
+Author-Name: Iwona Konarzewska
+Author-Email: iwona.konarzewska@uni.lodz.pl
+Author-Workplace-Name: University of Lodz, Poland
+Title: Princing of Selected Transactions Including Options and Monte Carlo Sensitivity Analysis
+Abstract: Among factors which influence option value as well as values of portfolios composed w>th options which estimates are burdened with risk, we can mention: the stock price of basic instrument, a variance of the rate of return on stock, a rate of return on risk-free asset. The aim of pricing financial instruments is to arrive at its value as a basis for buying decision for the investor. Among many practical portfolio investment strategies we analyse Ihe ones protecting investor against the risk. These strategies are connected with option pricing formulas - binomial and Black-Scholes. In our empirical study we analysed real market instruments - warrants on stocks and hedging strategies including them. With Monte Carlo simulation we generated stochastic Processes of stock prices bringing rates of return and volatility estimates dynamically up to date. Apart from illustration of the prices, rates of return and volatility dynamics we give the dynamics of the estimated value of the warrants under examination as well as probability distributions of its values.
+Classification-JEL: C01, E02, F00, G00
+Keywords: Option; Option pricing model; Stochastic simulation
+Year: 2003
+Month: 
+Volume: 166
+Edition: 1
+Chapter: 2
+Pages: 15-35
+Book-Title: Acta Universitatis Lodziensis. Folia Oeconomica nr 166/2003 - Modern Methods of Analysis and Forecasting Financial Markets
+In-Book: RePEc:ann:findeb:book:y:2003:n:166:foe
+File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/6824
+File-Format: Application/pdf
+Handle: RePEc:ann:findec:book:y:2003:n:166:ch:02:foe
