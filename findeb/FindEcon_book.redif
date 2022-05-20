@@ -36,7 +36,6 @@ File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/6790
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2003:n:166:foe
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -79,7 +78,6 @@ File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/7159
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2004:n:177:foe
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -116,7 +114,6 @@ File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/5956
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2005:n:192:foe
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -127,14 +124,14 @@ Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: Forecasting Financial Markets. Theory and Applications
 Year: 2005
 Month: 
-Volume: 0
+Volume: 1
 Edition: 1
 Provider-Name: Lodz University Press
 Abstract: Economists and policy makers are inherently interested in the process of modeling and forecasting financial markets and economic decision-making. These issues are of great interest in both academic journals and in the popular press magazines. The process of financial globalization and integration of financial markets affects the economic growth in the world.
  In this book we offer a research forum for economists and professionals to examine the theoretical and empirical issues on the general and specific financial and macroeconomic topics. The topics cover the area of forecasting financial markets and economic decision-making.
  The research in this volume gives a diversity of topics. It extends the framework of micro- and macroeconomic problems of financial markets functioning, evolution and prospects of growth in short- and long-term horizons. The topics include very important issues of capital mobility and its influence on the structure of capital markets, the contribution of financial markets performance to economic growth, the behavior and the potential of emerging financial markets, interactions between the developed and emerging markets, and the risk-return trade-off.
  This volume is divided into four parts. Part One outlines modeling and forecasting volatility in financial markets. Part Two provides fundamental portfolio selection and optimization procedures. Part Three is the focus on emerging markets performance. Finally, Part Four consists of an application of econometric and statistical methods in modeling and forecasting financial markets.
- This volume was preceded by the annual international conference Forecasting Financial Markets and Economic Decision—making (FindEcon 2004) organized by the Department of Econometrics at the University of Łódź, Poland. The quality of the conference and papers was assured by the conference discussants and referees. We would like to thank them for their support. We are grateful to all contributors to this book for making it a selection of insightful studies on financial markets. Finally, we would like to thank PKO Bank Polski and annual Warsaw Stock Exchange for their financial support which made possible to publish this volume.
+ This volume was preceded by the annual international conference Forecasting Financial Markets and Economic Decision—making (FindEcon 2004) organized by the Department of Econometrics at the University of Łódź, Poland. The quality of the conference and papers was assured by the conference discussants and referees. We would like to thank them for their support. We are grateful to all contributors to this book for making it a selection of insightful studies on financial markets.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 83-7171-883-7
 Keywords: Volatility in financial markets; Portfolio selection; Forecasting and modelling financial markets; Stock market modelling; Econometrics
@@ -155,7 +152,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2005/2005_No_0_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2005:n:00:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -173,7 +169,7 @@ Abstract: Policy-makers and economists are particularly interested in modeling a
  We offer in this monograph a research possibility for economists and professionals to discuss the theoretical and empirical issues concerning the financial and more general macroeconomic topics. The topics in the book belong to the broad area of forecasting and economic decision-making in financial markets.
  The monograph covers a diversity of topics both theoretical and empirical. It gives the framework of financial markets modeling and forecasting, as well as prospects for economic growth in a short- and long-run. The topics include issues of capital market modeling in terms of stock and bond returns, long-run exchange and interest rates, and financial markets in the process of macroeconomic development.
  This monograph consists of four parts. Part One outlines stock market modeling. In Part Two there are considered issues on bond returns, fundamental portfolio selection and optimization procedures. Part Three is focused on long-run exchange rate and interest rate modeling. Finally, Part Four presents the role of financial market integration in economic development.
- This monograph was preceded by the international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon 2005) organized by the Department of Econometrics at the University of Łódź, Poland. The scientific quality of the papers was assured by the conference Program Committee and independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modeling and forecasting financial markets. Finally, we would like to thank the joint stock company KGHM Polska Miedź and the Warsaw Stock Exchange for their financial support which made possible to publish this book.
+ This monograph was preceded by the international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon 2005) organized by the Department of Econometrics at the University of Łódź, Poland. The scientific quality of the papers was assured by the conference Program Committee and independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modeling and forecasting financial markets.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-022-0
 Keywords: Stock market modeling; Bonds and portfolio selection; Long-run exchange rate and interest rate modeling; Financial markets; Macroeconomic issues
@@ -199,7 +195,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_1_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2006:n:01:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -217,7 +212,7 @@ Abstract: Forecasting financial markets and economic decision-making has Been al
  Financial modeling and forecasting has become an area of advanced econometric applications. Financial time series are easily obtained with an extensive time span of data. Apart from empirical research it also drives theoretical issues by stimulating development of new econometric methods and testing procedures. The state of art in econometrics and statistics should be also attributed to financial modeling, testing and forecasting.
  We offer in this monograph a research forum for economists and financial analysts to discuss the theoretical issues and empirical applications on financial topics. The topics in the book cover the area of modeling, forecasting and decision-making in financial markets. The research in this monograph offers a diversity of topics both theoretical and empirical. The topics include issues of Bayesian econometrics in finance, modeling stock prices and volatility of financial returns, and risk and pricing of derivatives.
  This monograph is divided into four parts. Part One outlines Bayesian modeling in finance. Part Two provides issues on volatility in financial markets. Part Three is focused on derivative instruments. Finally, Part Four presents modeling stock prices.
- This book was preceded by the international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon 2005) organized by the Department of Econometrics at the University of Łódź, Poland. The scientific quality of the papers was assured by the conference Programme Committee and independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this monograph. This is a selection of insightful studies on modeling and forecasting financial time series. Finally, we would like to thank the joint stock company KGHM Polska Miedź and the Warsaw Stock Exchange for their financial support which made possible to publish this monograph.
+ This book was preceded by the international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon 2005) organized by the Department of Econometrics at the University of Łódź, Poland. The scientific quality of the papers was assured by the conference Programme Committee and independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this monograph. This is a selection of insightful studies on modeling and forecasting financial time series.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-073-2
 Keywords: Bayesian econometrics; Volatility in financial markets; Derivative instruments; Modeling stock prices
@@ -241,7 +236,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2006/2006_No_2_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2006:n:02:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -260,7 +254,7 @@ Abstract: Modelling and forecasting financial markets is a very important area o
 	The monograph is both theoretically and empirically oriented. It covers a diversity of topics in advanced econometric methodology and applications in financial modelling. It gives the studies in financial markets modelling and forecasting within the framework of volatility models and Bayesian econometrics. The topics include main issues in modeling stock returns and volatility. Modelling and forecasting stock markets is a key interest of financial analysts in their decisions about portfolio allocation and investment strategies.
 	The monograph consists of four parts. Part one outlines principles of modelling, forecasting and decision-making in financial markets. It consists of three chapters. They offer an advanced econometric approach to modelling exchange rates as well as stock prices and indexes. Part two is focused on modelling stock market returns and volatility. It consists of three chapters. They present various issues in stock market linkages, linear or non-linear dependencies in stock markets and forecasting performance of implied volatility. Part three includes four chapters which are focused on advanced theoretical studies in volatility models within a Bayesian frame-work. Finally, Part four presents theory and applications in econometric and statistical methods. This Part offer selected topics in game theory to be applied in financial markets, the co-dependence between financial markets and macroeconomy and portfolio analysis within the panel data estimation methods.
 	This monograph was preceded by the annual international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon) which was held in 2006. The FindEcon conference, first proposed in 2002, is organized by the Department of Econometrics at the University of Łódź, Poland. This monograph is published within the framework of FindEcon Monograph Series on Advances in Financial Market Analysis' under the title Financial Markets: Principles of Modelling, Forecasting, and Decision-Making. The FindEcon Monograph Series was launched as the output of FindEcon 2005 conference with two monographs which were published in 2006 (Numbers 1 and 2). Three monographs (Numbers 3, 4 and 5) are published after FindEcon 2006 conference.
-	The scientific quality of the papers in this book was assured by the conference Programme Committee and independent referees. We appreciate  their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modeling and forecasting financial markets. Finally, we would like to thank the partners and sponsors of the conference — the joint stock company PKO Bank Polski and Warsaw Stock Exchange — for their financial support which made possible to publish this book.
+	The scientific quality of the papers in this book was assured by the conference Programme Committee and independent referees. We appreciate  their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modeling and forecasting financial markets.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-152-4
 Keywords: Modelling financial markets; Forecasting and decision-making in financial markets; Bayesian econometrics; Volatility in financial markets; Modelling stock market returns
@@ -281,7 +275,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_3_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2007:n:03:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -290,7 +283,7 @@ Editor-Name: Piotr Wdowiński
 Editor-Email: piotr.wdowinski@uni.lodz.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Editor-Name: Grzegorz Szafrański
-Editor-Email: gszafranski@kozminski.edu.pl
+Editor-Email: grzegorz.szafranski@nbp.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: FindEcon Monograph Series: Advances in Financial Market Analysis
 Year: 2007
@@ -303,10 +296,10 @@ Abstract: The links between financial markets and real economies are sometimes n
  The monograph covers topics of theoretical and empirical matters. It gives the framework of modelling and forecasting financial markets from the micro-and macroeconomic perspective. The topics include issues of exchange rates, interest rates, capital market returns and inflation modelling which are very important in the understanding of macroeconomic development.
  This monograph consists of three parts. Part one outlines exchange rate modelling under different regimes. Four chapters offer an empirical analysis of forecasting exchange rates in their two most important aspects, i.e. level and volatility. In Part two we get the insight into the microeconomic foundations of financial market. Part two presents three studies on econometric techniques explaining the behavior of different agents like trading frequency, capital market beta convergence and imperfect market competition in interest rate formation. Part three is focused on long-lasting discussion about links between inflation and unemployment. In two chapters the long- and short-run factors of inflation changes are presented.
  This monograph was preceded by the annual international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon) which was held in 2006. The FindEcon conference, first proposed in 2002, is organized by the Department of Econometrics at the University of Łódź, Poland. This monograph is published within the framework of ‘FindEcon Monograph Series" on ‘Advances in Financial Market Analysis" under the title Financial Markets: Principles of Modelling, Forecasting, and Decision-Making. The ‘FindEcon Monograph Series" was launched as the output of FindEcon 2005 conference with two monographs which were published in 2006 (Numbers 1 and 2). Three monographs (Numbers 3, 4 and 5) are published after FindEcon 2006 conference.
- The scientific quality of the papers in this book was assured by the conference Programme Committee and independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modelling and forecasting financial markets. Finally, we would like to thank the partners and sponsors of the conference – the joint stock company PKO Bank Polski and Warsaw Stock Exchange – for their financial support which made possible to publish this book.
+ The scientific quality of the papers in this book was assured by the conference Programme Committee and independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modelling and forecasting financial markets.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-601-6
-Keywords: Interest rates and exchange rates modelling; Financial markets and microeconomic foundations; Inflation and Unemployment modelling
+Keywords: Interest rates and exchange rates modelling; Financial markets and microeconomic foundations; Inflation and unemployment modelling
 HasChapter: RePEc:ann:findec:book:y:2007:n:04:ch:01:mon
 HasChapter: RePEc:ann:findec:book:y:2007:n:04:ch:02:mon
 HasChapter: RePEc:ann:findec:book:y:2007:n:04:ch:03:mon
@@ -320,7 +313,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_4_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2007:n:04:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -329,7 +321,7 @@ Editor-Name: Piotr Wdowiński
 Editor-Email: piotr.wdowinski@uni.lodz.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Editor-Name: Grzegorz Szafrański
-Editor-Email: gszafranski@kozminski.edu.pl
+Editor-Email: grzegorz.szafranski@nbp.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: FindEcon Monograph Series: Advances in Financial Market Analysis
 Year: 2007
@@ -339,7 +331,7 @@ Edition: 1
 Provider-Name: Lodz University Press
 Abstract: The chapters included in this monograph cover a wide range of current interests in the theory of financial markets, economics of finance, financial econometrics, and their applications. In particular, the topics concern modeling and forecasting financial markets from micro- and macroeconomic perspective. The texts were preceded by the papers of the annual international conference Forecasting Financial Markets and Economic Decision-Making FindEcon"2006, the conference, first being held in 2002, and organized by the Department of Econometrics of the University of Łódź, Poland. This monograph is published within the framework of ‘FindEcon Monograph Series" on ‘Advances in Financial Market Analysis" under the title ‘Financial Markets: Principles of Modelling, Forecasting, and Decision-Making." The English version of ‘FindEcon Monograph Series" was initiated in 2005.
  This monograph consists of four parts. Part One presents issues connected with empirical tests of financial hypotheses and theories. Part Two presents five studies on modelling interest rates. Part Three is focused on the empirical questions of mutual investing in the Polish market and on some theoretical aspects of portfolio selection. Part Four is about interesting application of new financial models.
- The papers included in this book were selected by the conference Programme Committee and reviewed by independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modeling and fore-casting financial markets. The Editors do not accept the responsibility for possible not corrected, by authors, language flaws or essential shortcomings. Finally, we would like to thank the partners and sponsors of the conference – the joint stock company PKO Bank Polski, Warsaw Stock Exchange, and the Dean of the Faculty of Economics and Sociology – for their financial support.
+ The papers included in this book were selected by the conference Programme Committee and reviewed by independent referees. We appreciate their efforts and would like to thank them for their support. We are grateful to all contributors to this book as this is a selection of insightful studies on modeling and fore-casting financial markets. The Editors do not accept the responsibility for possible not corrected, by authors, language flaws or essential shortcomings.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-200-2
 Keywords: Stock market modelling; Bonds; Term structure of interest rates; Investment funds; Portfolio selection; Applied financial modelling
@@ -362,7 +354,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2007/2007_No_5_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2007:n:05:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -371,7 +362,7 @@ Editor-Name: Piotr Wdowiński
 Editor-Email: piotr.wdowinski@uni.lodz.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Editor-Name: Grzegorz Szafrański
-Editor-Email: gszafranski@kozminski.edu.pl
+Editor-Email: grzegorz.szafranski@nbp.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: FindEcon Monograph Series: Advances in Financial Market Analysis
 Year: 2008
@@ -401,7 +392,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2008/2008_No_6_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2008:n:06:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -410,7 +400,7 @@ Editor-Name: Piotr Wdowiński
 Editor-Email: piotr.wdowinski@uni.lodz.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Editor-Name: Grzegorz Szafrański
-Editor-Email: gszafranski@kozminski.edu.pl
+Editor-Email: grzegorz.szafranski@nbp.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: FindEcon Monograph Series: Advances in Financial Market Analysis
 Year: 2009
@@ -420,8 +410,7 @@ Edition: 1
 Provider-Name: Lodz University Press
 Abstract: The Volume No. 7 under the title “Financial Markets: Principles of Modelling, Forecasting, and Decision-Making” in a Series “Advances in Financial Market Analysis” includes thirteen chapters. They cover a wide range of current empirical and theoretical issues connected with financial markets, economics of finance, and financial econometrics. In particular, in four separate parts of the monograph, there are discussed new methods of financial econometrics, issues of modelling stock returns, financial derivatives, and portfolio selection problems.
  Part One is devoted to “Statistical and Econometrics Methods in Finance”. Part Two deals with modelling the aggregate dynamics of stock market returns. Two chapters of Part Three are devoted to modelling and pricing of derivative instruments. In Part Four different portfolio models are considered.
- The chapters are revised papers discussed at the international conference on Forecasting Financial Markets and Economic Decision-Making FindEcon’2007. The Conference is organized annually by the Department of Econometrics, University of Łódź, Poland since 2002. Starting from 2005 the conference mono-graph is published within the framework of “FindEcon Monograph Series”. All papers were subject to the review process by independent referees. We appreciate their job and would like to thank them for their efforts. We are grateful to discussants of the FindEcon Conference for their comments as they helped to improve the final drafts of the papers presented during the 2007 edition of the Conference. We did our best to keep the book as coherent as possible. The Contributors to this volume have revised their papers according to review comments and performed English language verification. We should, however, apologize for any remaining language flaws or essential shortcomings.
- Finally, we would like to thank the partners and sponsors of the conference – PKO Bank Polski, FERK Foundation, and the Dean of the Faculty of Economics and Sociology – for their financial support.
+ The chapters are revised papers discussed at the international conference on Forecasting Financial Markets and Economic Decision-Making FindEcon’2007. The Conference is organized annually by the Department of Econometrics, University of Łódź, Poland since 2002. Starting from 2005 the conference mono-graph is published within the framework of “FindEcon Monograph Series”. All papers were subject to the review process by independent referees. We appreciate their job and would like to thank them for their efforts. We are grateful to discussants of the FindEcon Conference for their comments as they helped to improve the final drafts of the papers presented during the 2007 edition of the Conference.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-302-3
 Keywords: Statistical and econometrics methods in finance; Stock market returns modelling; Modelling and pricing of derivative instruments; Portfolio models
@@ -442,7 +431,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2009/2009_No_7_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2009:n:07:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -451,7 +439,7 @@ Editor-Name: Piotr Wdowiński
 Editor-Email: piotr.wdowinski@uni.lodz.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Editor-Name: Grzegorz Szafrański
-Editor-Email: gszafranski@kozminski.edu.pl
+Editor-Email: grzegorz.szafranski@nbp.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: FindEcon Monograph Series: Advances in Financial Market Analysis
 Year: 2010
@@ -462,8 +450,7 @@ Provider-Name: Lodz University Press
 Abstract: The Volume No. 8 on “Financial Markets: Principles of Modelling, Forecasting, and Decision-Making” within a series “Advances in Financial Market Analysis” includes seventeen chapters. They cover a variety of up-to-date empirical and theoretical researches in financial markets, economics of finance, and financial econometrics. In particular, in four parts of the monograph, there are discussed issues in modelling exchange rates and stock prices, new estimation and testing methods in financial markets, analysis of financial time series and issues in monetary policy and the interbank sector.
  Part One is devoted to modelling exchange rates and stock prices. Part Two deals with new estimation and testing methods in financial markets. Four chapters of Part Three are devoted to univariate time-series analysis. In Part Four issues in monetary policy and the inter-bank sector are raised in four chapters.
  All the chapters are revised and refereed papers discussed at the international conference on Forecasting Financial Markets and Economic Decision-Making (FindEcon 2008). The conference is organized annually by the Department of Econometrics, University of Łódź, Poland since 2002. Starting from 2005 the conference monograph is published within the framework of “FindEcon Monograph Series”.
- All papers in this monograph were subject to the review process by independent referees. We appreciate their efforts to select the book contents. We are grateful to discussants of the FindEcon Conference for their comments as they helped to improve the final papers presented during the 2008 edition of the conference. We did our best to keep the book as coherent as possible.
- Finally, we would like to thank the partners and sponsors of the conference, and the Dean of the Faculty of Economics and Sociology – for their financial support.
+ All papers in this monograph were subject to the review process by independent referees. We appreciate their efforts to select the book contents. We are grateful to discussants of the FindEcon Conference for their comments as they helped to improve the final papers presented during the 2008 edition of the conference.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-405-1
 Keywords: Exchange rates and stock prices modelling; Estimation and testing methods in financial markets; Univariate time-series analysis; Monetary policy; Inter-bank sector
@@ -488,7 +475,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2010/2010_No_8_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2010:n:08:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -497,7 +483,7 @@ Editor-Name: Piotr Wdowiński
 Editor-Email: piotr.wdowinski@uni.lodz.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Editor-Name: Grzegorz Szafrański
-Editor-Email: gszafranski@kozminski.edu.pl
+Editor-Email: grzegorz.szafranski@nbp.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: FindEcon Monograph Series: Advances in Financial Market Analysis
 Year: 2011
@@ -507,7 +493,7 @@ Edition: 1
 Provider-Name: Lodz University Press
 Abstract: The Volume No. 9 under the title `Advances in Financial Market Analysis: Financial Markets: Principles of Modelling, Forecasting, and Decision-Making' includes ten chapters. They cover topics in International Economics, Financial Economics, Financial Market Analysis, and Econometrics. The quantitative approach and empirical evidence is an important distinction of the monography from other post-conference volumes.
  Part One is on `International Economics and Financial Markets'. Part Two presents new concepts and methods proposed in financial market analysis. Three chapters of Part Three are devoted to empirical questions of measuring the financial risk.
- The chapter texts are revised forms of selected papers discussed at the international conference on Forecasting Financial Markets and Economic Decision-Making FindEcon’2009. The Conference is organized annually in Łódź, Poland by Department of Econometrics, University of Łódź since 2002. Starting from 2005 the post-conference monograph is published within the framework of `FindEcon Monograph Series'. All papers were subject to the thorough review process by independent referees. We appreciate their efforts and would like to thank them for the job done. We are grateful to discussants of the FindEcon Conference for their comments as they helped to improve the final drafts of the papers presented during the 2009' edition of the Conference. We did our best to keep the book as coherent as possible. The Editors do not accept the responsibility for possible not corrected, by authors, language flaws or essential shortcomings. Finally, we would like to thank the partners of the conference - the Dean of the Faculty of Economics and Sociology - for his financial support.
+ The chapter texts are revised forms of selected papers discussed at the international conference on Forecasting Financial Markets and Economic Decision-Making FindEcon’2009. The Conference is organized annually in Łódź, Poland by Department of Econometrics, University of Łódź since 2002. Starting from 2005 the post-conference monograph is published within the framework of `FindEcon Monograph Series'. All papers were subject to the thorough review process by independent referees. We appreciate their efforts and would like to thank them for the job done. We are grateful to discussants of the FindEcon Conference for their comments as they helped to improve the final drafts of the papers presented during the '2009 edition of the Conference.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-561-4
 Keywords: International economics; Financial market analysis; Financial risk measurement; Quantitative approach 
@@ -525,7 +511,6 @@ File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2011/2011_No_9_Ch_0.p
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2011:n:09:mon
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
 Editor-Email: wladyslaw.milo@uni.lodz.pl
@@ -534,7 +519,7 @@ Editor-Name: Piotr Wdowiński
 Editor-Email: piotr.wdowinski@uni.lodz.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Editor-Name: Grzegorz Szafrański
-Editor-Email: gszafranski@kozminski.edu.pl
+Editor-Email: grzegorz.szafranski@nbp.pl
 Editor-Workplace-Name: University of Lodz, Department of Econometrics
 Title: FindEcon Monograph Series: Advances in Financial Market Analysis
 Year: 2012
@@ -545,7 +530,7 @@ Provider-Name: Lodz University Press
 Abstract: Economists and policymakers are inherently interested in the process of modeling and forecasting financial markets and economic decision-making. The issues of financial market stability and its secure functioning are of great interest in both academic journals and in the popular press magazines. The process of financial globalization and integration of financial markets affects the economic growth in the world.
  In this book we offer a forum for economists and policymakers to examine the theoretical and empirical issues on the general and specific financial and macroeconomic topics. The topics cover the area of forecasting financial markets and economic decision-making.
  The research in this volume gives a diversity of topics. It extends the framework of micro- and macroeconomic problems of financial markets functioning, evolution and prospects of growth in short- and long-term horizons. The topics include very important issues of new architecture of European financial regulatory and supervision framework, the contribution of financial markets performance to economic growth, the behavior and the potential of emerging financial markets, and the risk-return trade-off.
- This volume was preceded by the international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon 2010) organized by the Department of Econometrics, University of Łódź, Poland. The scientific record of the papers was assured by the Programme Committee members, the conference discussants and referees. We would like to thank them for their support. We are grateful to all contributors to this book for making it a selection of insightful studies on financial markets. Finally, we would like to thank the Faculty of Economics and Sociology (EkSoc) for financial support which made possible to publish this volume.
+ This volume was preceded by the international conference Forecasting Financial Markets and Economic Decision-Making (FindEcon 2010) organized by the Department of Econometrics, University of Łódź, Poland. The scientific record of the papers was assured by the Programme Committee members, the conference discussants and referees. We would like to thank them for their support. We are grateful to all contributors to this book for making it a selection of insightful studies on financial markets.
 Classification-JEL: C01, E02, F00, G00
 ISBN: 978-83-7525-677-2
 Keywords: Financial markets functioning; Evolution and prospects of growth in short- and long-term horizons; European financial regulatory; Emerging financial markets
@@ -561,7 +546,6 @@ HasChapter: RePEc:ann:findec:book:y:2012:n:10:ch:09:mon
 File-URL: https://www.repec.uni.lodz.pl/RePEc/files/findec/2012/2012_No_10_Ch_0.pdf
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2012:n:10:mon
-
 
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Władysław Milo
@@ -591,7 +575,6 @@ File-URL: https://dspace.uni.lodz.pl/xmlui/handle/11089/4942
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2013:n:295:foe
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Magdalena Osińska
 Editor-Email: emo@umk.pl
@@ -614,7 +597,6 @@ File-URL: https://ps.stat.gov.pl/Issue/2016/3
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2016:n:63:ps
 
-
 Template-Type: ReDIF-Book 1.0
 Editor-Name: Magdalena Osińska
 Editor-Email: emo@umk.pl
@@ -633,4 +615,3 @@ HasChapter: RePEc:ann:findec:book:y:2017:n:64:ch:01:ps
 File-URL: https://ps.stat.gov.pl/Issue/2017/3
 File-Format: Application/pdf
 Handle: RePEc:ann:findeb:book:y:2017:n:64:ps
-
