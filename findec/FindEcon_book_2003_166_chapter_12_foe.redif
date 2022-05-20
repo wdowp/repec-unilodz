@@ -1,9 +1,9 @@
 Template-Type: ReDIF-Chapter 1.0
 Author-Name: Marek Łażewski
-Author-Email: [TBA]
+Author-Email: 
 Author-Workplace-Name: Poznań University of Economics and Business, Poland
 Author-Name: Krzysztof Zator
-Author-Email: [TBA]
+Author-Email: 
 Author-Workplace-Name: TUiR Warta SA, Poland
 Title: Optimal Portfolio Selection using Stable Distribution
 Abstract: In this paper we study the traditional Mean-Variance method in portfolio selection when asset returns are assumed to be alpha-stable. An а-stable optimal portfolio are computed and compared to the classical Gaussian one. The efficient frontier obtained from this analysis model dominates the one defined in terms of the Markowitz portfolio selection model criterion.

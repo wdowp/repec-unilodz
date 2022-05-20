@@ -6,7 +6,7 @@ Author-Name: Ryszard Doman
 Author-Email: rydoman@amu.edu.pl
 Author-Workplace-Name: Adam Mickiewicz University, Poznań, Poland
 Title: Forecasting the Daily Volatility Defined with High-Frequency Data for the Stock Index WIG
-Abstract: It is generally acknowledged that squared daily returns on a financial instrument provide a poor approximation of its daily volatility. It was first pointed out by Andersen and Bollerslev that more accurate estimates are obtained with the realized volatility calculated as the sum of squared intraday returns corresponding to high-frequency data. In this paper we show how the volatility forecasts for the stock index WIG provided by the popular GARCH(I,I) improve when instead of daily squared returns they are evaluated against the realized volatility.
+Abstract: It is generally acknowledged that squared daily returns on a financial instrument provide a poor approximation of its daily volatility. It was first pointed out by Andersen and Bollerslev that more accurate estimates are obtained with the realized volatility calculated as the sum of squared intraday returns corresponding to high-frequency data. In this paper we show how the volatility forecasts for the stock index WIG provided by the popular GARCH(1,1) improve when instead of daily squared returns they are evaluated against the realized volatility.
 Classification-JEL: C01, E02, F00, G00
 Keywords: Forecasting; High-frequency data; Realized volatility; GARCH model
 Year: 2003
